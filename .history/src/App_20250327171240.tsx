@@ -1,7 +1,7 @@
 
-import "./index.css" 
-import "./App.css"   
-import "./overload.css"
+import "./index.css"  // Make sure this comes first
+import "./App.css"    // Then any app-specific CSS
+import "./overload.css"  // Then overrides
 import "./mobile.css"   
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";

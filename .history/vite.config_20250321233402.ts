@@ -16,10 +16,4 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  build: {
-    // Ensure source maps are generated
-    sourcemap: true,
-    // Ensure CSS is properly extracted
-    cssCodeSplit: true,
-  }
 }));

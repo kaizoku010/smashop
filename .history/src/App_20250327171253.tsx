@@ -1,7 +1,7 @@
 
 import "./index.css" 
 import "./App.css"   
-import "./overload.css"
+import "./overload.css"  // Then overrides
 import "./mobile.css"   
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
