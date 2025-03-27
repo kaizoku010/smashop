@@ -52,7 +52,7 @@ const EditorsPicks = () => {
       [id]: true
     }));
   };
-// please work on git
+// pleasew
   return (
     <section className="section-container">
       <div className="section-title">
