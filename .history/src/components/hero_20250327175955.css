@@ -1,0 +1,31 @@
+#sembeza-green{
+    /* background-color: red !important; */
+    background-image: url("../media/bg62.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 23rem !important;
+    align-content: center;
+}
+
+#chip{
+color: white !important;
+}
+
+#hero-section {
+    padding-top: 14rem;
+}
+
+
+#hero-section {
+    background: #f9fafb;
+    padding-top: 11rem;
+}
+
+
+#top-bar{
+
+}
+
+#top-bar-content{
+    
+}

@@ -1,0 +1,138 @@
+@media (max-width: 768px) {
+p{
+  font-size: small;
+}
+
+  #sb-logo {
+    width: 4rem;
+    height: 3rem !important;
+  }
+
+  #hero-section {
+    padding-top: 4.5rem;
+    margin-top: 4.5rem;
+     padding-left: .5rem;
+    padding-right: .5rem;
+  }
+
+  #main-nav {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+#top-bar {
+  display: none ;
+  padding: 0px .5rem;
+}
+
+#footer-image{
+  width: 4rem;
+}
+
+
+
+  #top-bar span{
+    font-size: 0.6rem;
+  }
+
+  #hero-title{
+         line-height: 1;
+         font-size: 1.5em;
+  }
+
+  #sembeza-green{
+    background-image: url("./media/king.jpg");
+    place-content: center;
+  }
+
+#mobile-drawer-logo{
+  width: 5rem;
+  height: 20%;
+}
+
+.btn-secondary{
+  font-size: small !important;
+}
+
+#btn-green {
+  font-size: small;
+}
+
+
+#shop-now-btn{
+  font-size: small;
+}
+
+
+#barefoot{
+  font-size: small;
+}
+
+  #orange-btn-hero {
+    font-size: small;
+    background-color: #f5823d !important;
+}
+
+  #text-cut {
+    color: white !important;
+    width: 100%;
+}
+
+#mdx-section {
+  margin-top: 1rem;
+  height: 30rem !important;
+}
+
+.login-page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.login-page-side-a {
+  display: none;
+}
+
+#raga-text {
+  width: 100%;
+  text-align: left;
+  line-height: 1.4;
+  margin-bottom: 1rem;
+}
+
+#login-form-section {
+  width: 100%;
+  height: 100%;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  align-content: center;
+}
+.login-logo {
+  width: 6rem;
+}
+
+#reg-page{
+  flex-direction: column;
+  overflow-y: visible;
+}
+
+#reg-image-section{
+  display: none;
+}
+
+#reg-section {
+  width: 100%;
+  padding: 0rem 1rem;
+}
+#hero-subtitle{
+  font-size: small;
+}
+
+#top-bar{
+  padding: .8rem 0px;
+}
+
+#map-pin{
+  display: none;
+}
+
+}

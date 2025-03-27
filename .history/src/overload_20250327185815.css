@@ -1,0 +1,278 @@
+/* this css here acts as a way for u to over load the existing css without spoiling design ! */
+
+body {
+  background-color: #f9fafb !important;
+}
+
+#mdx-section {
+  height: 30rem !important;
+}
+
+#white {
+  color: white !important;
+}
+
+#btn-green {
+  background-color: white !important;
+  color: rgb(64 73 29 / var(--tw-bg-opacity, 1));
+}
+
+#btn-green:hover {
+  color: white !important;
+  background-color: rgb(64 73 29 / var(--tw-bg-opacity, 1)) !important;
+}
+
+#spacer {
+  width: 2rem;
+}
+
+#text-cut {
+  color: white !important;
+  width: 30rem;
+}
+
+#green-bg {
+  /* background-color: red !important; */
+  background-image: url("./media/bg.jpg") !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#bgColor {
+  background-color: red;
+}
+
+#editor-picks-image {
+  height: 16rem !important;
+}
+
+#barefoot:hover {
+  color: white;
+}
+
+#raga {
+  height: 26rem !important;
+}
+
+#raga-text {
+  width: 38rem;
+  text-align: justify;
+  margin-bottom: 1rem;
+}
+
+/* .faq-qsn{
+    color: white !important;
+} */
+
+.faq-answer {
+  background-color: rgba(128, 128, 128, 0.237);
+}
+
+.login-page {
+  display: flex;
+  height: 100vh;
+}
+
+#login-form-section {
+  width: 30%;
+  align-content: center;
+}
+
+.login-page-side-a {
+  width: 70%;
+  background-size: cover;
+  background-position: bottom;
+  background-image: url("./media/king.jpg");
+}
+
+.login-logo {
+  margin-bottom: 1rem;
+  justify-self: center;
+}
+
+#back-btn {
+  background-color: #f47a21 !important;
+  margin-top: 0.5rem !important;
+}
+
+#orange-btn-hero {
+  background-color: #f5823d !important;
+}
+
+#orange-btn-hero:hover {
+  background-color: rgb(80 90 40) !important;
+}
+
+#reg-image-section {
+  background-image: url("./media/katale.jpg");
+  height: 100%;
+  color: white;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  background-position: center;
+  background-size: cover;
+  width: 70%;
+}
+
+#reg-section {
+  overflow-y: visible;
+  width: 35%;
+  padding: 0rem 2rem;
+}
+
+#leftie {
+  text-align: left !important;
+}
+
+#reg-page {
+  background-color: white;
+  display: flex;
+  overflow-y: hidden;
+  height: 100vh;
+}
+#product-page {
+  margin-top: 5rem;
+}
+#back-home {
+  display: flex;
+  justify-content: center;
+  padding: 0.4rem 0;
+  align-items: center;
+  color: white;
+  margin-top: 0.5rem;
+  border-radius: 7px;
+  background-color: #f47a21;
+}
+
+#back-home:hover {
+  background-color: rgb(64 73 29 / var(--tw-bg-opacity, 1));
+}
+
+#sb-logo {
+  width: 5rem;
+  margin-left: 1rem;
+}
+
+#shop-categories {
+  margin-left: 1rem;
+}
+
+#margin-lr {
+  padding: 5rem 1rem;
+}
+
+#back-home-link {
+  display: flex;
+  width: fit-content;
+  background: #0000005c;
+  align-items: center;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+#back-home-link:hover {
+  background-color: white;
+  color: rgb(64 73 29 / var(--tw-bg-opacity, 1));
+}
+
+/* main{
+    margin: 0px 1rem;
+} */
+
+#footer-slice a span li {
+  font-size: small !important;
+}
+
+#product_title {
+  /* margin-bottom: 0px !important; */
+  height: fit-content !important;
+}
+
+#ed-area h3 {
+  font-size: small;
+}
+
+#shop-main {
+  margin-top: 4rem;
+}
+
+#product-slider img {
+  width: 11rem !important;
+}
+
+#product-page {
+  margin-top: 10rem;
+}
+
+#fab {
+  color: white;
+}
+
+#spacer {
+  height: 1rem;
+}
+
+
+footer{
+    background-color: #f9fafb;
+}
+
+
+#top-bar{
+
+}
+
+#top-bar-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 5rem;
+}
+
+#top-bar-contact{
+    margin-left: 1rem;
+}
+
+#main-nav{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+#shop-categories{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+#main-padding{
+    padding-left: 5.6rem;
+    padding-right: 5.6rem;
+}
+
+#hero-section{
+        padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+#promo-section{
+  padding-right: 3rem;
+  padding-left: 3em;
+}
+
+#chat-btn{
+  margin-left: 1rem;
+}
+
+
+#spacer{
+  height: 1rem;
+}
+
+
+#shop-section{
+  padding-left: 5.6rem;
+  padding-right: 5.6rem;
+  margin-top: 4rem;
+}
+
+#cart-page{
+  margin-top: 4rem;
+}
